@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-readme number one
-=======
-readme number three
+readme number bibibidou
 
->>>>>>> origin/master
+
